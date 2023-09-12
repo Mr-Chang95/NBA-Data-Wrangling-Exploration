@@ -39,3 +39,6 @@ After cleaning up the data, I merged 4 of the datasets into 2. I have also creat
 
 ## Licensing, Authors, Acknowledgements
 I would like to give special thanks to **[Basketball Reference](https://www.basketball-reference.com/leagues/)** for the data that I have collected. This couldn't have happened without them.
+
+## Further Works
+I plan to create predictive models in the coming months with the updated datasets for the upcoming season. 
